@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 | Skill                                               | Associated Project                                                           |
 |-----------------------------------------------------|------------------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis                | <a href="https://google.com">Detection Lab</a>                               |
+| SIEM Implementation and Log Analysis                | <a href="https://github.com/sultanasser/Detection-Lab/tree/main">Detection Lab</a>                               |
 | Network Traffic Monitoring and Attack Detection     | <a href="https://google.com">Detection Lab</a>                               |
 | Incident Response Planning and Execution            | SOC Automation Lab                                                           |
 
@@ -54,7 +54,7 @@ The followings are the certifications I've obtained:
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/sultanasser/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - Penetration Testing Project
 - Data Analysis Project
